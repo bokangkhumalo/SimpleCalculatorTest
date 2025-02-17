@@ -16,3 +16,6 @@ To run this project locally, follow these steps:
 1. Clone the repository:
    ```sh
    git clone https://github.com/bokangkhumalo/SimpleCalculatorTest.git
+
+![Tests from simpleCalculator](https://github.com/user-attachments/assets/1cefecd3-a702-44c2-9f8b-f965fdab8f46)
+
